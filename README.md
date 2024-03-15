@@ -1,10 +1,20 @@
-# 디자인적 사고 팀프로젝트 (2023/10/13~2023/12/23)
+<div align="center">
+
+Tennis Echo Unity Project<br>디자인적 사고 팀프로젝트
+=============
 
 ## 개요 | OUTLINE
-인공지능을 이용한 테니스 가이드 앱 만들기 프로젝트이다.
-오픈소스인 [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda)와 유니티를 활용하여 제작하였다.
+제작 기간(period): 2023/10/13 ~ 2023/12/23
+
+인공지능을 이용한 테니스 :tennis: 가이드 앱 만들기 프로젝트입니다.
+오픈소스인 [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda)와 유니티를 활용하여 제작하였습니다.
 
 더 자세한 내용은 [이 링크](https://big-tracker-47a.notion.site/12-14-d93f476dd8ce41ffb1f5b3410525bab9?pvs=4)를 참고해주세요!
+
+It is a project to create a tennis :tennis: guide app using artificial intelligence.
+It was produced using the open source [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) and Unity.
+
+For more information, please refer to [this link](https://big-tracker-47a.notion.site/12-14-d93f476dd8ce41ffb1f5b3410525bab9?pvs=4)!
 
 
 ## 팀 구성원 | TEAM
@@ -67,3 +77,5 @@ RoundUIManager.cs: 라운드 UI를 그립니다.</br>
 - 돌아가기: 게임 이어가기
 - 처음부터 다시하기: 첫 시도부터 시작하기
 - 나가기: 로비화면으로 나가기
+
+</div>
