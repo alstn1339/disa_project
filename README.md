@@ -1,16 +1,18 @@
 # 디자인적 사고 팀프로젝트 (2023/10/13~2023/12/23)
+
 ## 개요
 인공지능을 이용한 테니스 가이드 앱 만들기.
 오픈소스인 [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda)와 유니티를 활용하여 만든 테니스 가이드 앱이다.
 
-## 팀구성원
-[Alstn](https://github.com/alstn1339)
-[Ji Hwan Park](https://github.com/DefineJH)
-[OverWindow](https://github.com/OverWindow)
-[hoyoon choi](https://github.com/hoyoonchoi)
+## 팀 구성원
+[Keval](https://github.com/kevalsil)<br>
+[Ji Hwan Park](https://github.com/DefineJH)<br>
+[OverWindow](https://github.com/OverWindow)<br>
+[hoyoon choi](https://github.com/hoyoonchoi)<br>
 
 ## 기능
-프리젠테이션 참고.
+자세한 기능은 노션 및 프리젠테이션 참고.
+
 ### 1. LobbyScene</br>
 ![lobby1](./Screenshot/20231204_lobby.png)</br>
 ![lobby2](./Screenshot/20231204_lobby_pose.png)</br>
@@ -19,6 +21,7 @@
 - 연습 모드 버튼을 누르면 연습할 자세를 선택할 수 있습니다.
 - 자세 선택 시 연습(Practice) 씬으로 이동합니다.
 - 연습(Practice) 씬에서는 해당 자세를 연습할 수 있게 공이 날라갑니다.
+- 거울 모드에서는 나 자신이 친 공과 계속해서 대결합니다.
 
 #### 사용된 스크립트</br>
 GameManager.cs: 게임 전체를 관리합니다.</br>
