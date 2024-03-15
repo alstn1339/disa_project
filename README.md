@@ -1,7 +1,10 @@
 <div align="center">
 
-Tennis Echo Unity Project<br>디자인적 사고 팀프로젝트
-=============
+# Tennis Echo (Unity)
+**테니스 에코 (유니티)**<br>
+
+2023 디자인적 사고 팀프로젝트<br>
+2023 Design Thinking Team Project
 
 ## 개요 | OUTLINE
 제작 기간(period): 2023/10/13 ~ 2023/12/23
