@@ -1,17 +1,19 @@
 # 디자인적 사고 팀프로젝트 (2023/10/13~2023/12/23)
 
-## 개요
-인공지능을 이용한 테니스 가이드 앱 만들기.
-오픈소스인 [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda)와 유니티를 활용하여 만든 테니스 가이드 앱이다.
+## 개요 | OUTLINE
+인공지능을 이용한 테니스 가이드 앱 만들기 프로젝트이다.
+오픈소스인 [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda)와 유니티를 활용하여 제작하였다.
 
-## 팀 구성원
+더 자세한 내용은 [이 링크](https://big-tracker-47a.notion.site/12-14-d93f476dd8ce41ffb1f5b3410525bab9?pvs=4)를 참고해주세요!
+
+
+## 팀 구성원 | TEAM
 [Keval](https://github.com/kevalsil)<br>
 [Ji Hwan Park](https://github.com/DefineJH)<br>
 [OverWindow](https://github.com/OverWindow)<br>
 [hoyoon choi](https://github.com/hoyoonchoi)<br>
 
-## 기능
-자세한 기능은 노션 및 프리젠테이션 참고.
+## 기능 | FUNCTION
 
 ### 1. LobbyScene</br>
 ![lobby1](./Screenshot/20231204_lobby.png)</br>
