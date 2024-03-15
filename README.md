@@ -6,7 +6,7 @@
 2023 디자인적 사고 팀프로젝트<br>
 2023 Design Thinking Team Project
 
-## 개요 | OUTLINE
+## 개요 | Outline
 제작 기간(period): 2023/10/13 ~ 2023/12/23
 
 인공지능을 이용한 테니스 :tennis: 가이드 앱 만들기 프로젝트입니다.
@@ -20,13 +20,13 @@ It was produced using the open source [ThreeDPoseUnityBarracuda](https://github.
 For more information, please refer to [this link](https://big-tracker-47a.notion.site/12-14-d93f476dd8ce41ffb1f5b3410525bab9?pvs=4)!
 
 
-## 팀 구성원 | TEAM
+## 팀 구성원 | Team member
 [Keval](https://github.com/kevalsil)<br>
 [Ji Hwan Park](https://github.com/DefineJH)<br>
 [OverWindow](https://github.com/OverWindow)<br>
 [hoyoon choi](https://github.com/hoyoonchoi)<br>
 
-## 기능 | FUNCTION
+## 기능 | Function
 
 ### 1. LobbyScene</br>
 ![lobby1](./Screenshot/20231204_lobby.png)</br>
