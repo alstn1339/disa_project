@@ -6,7 +6,7 @@
 2023 디자인적 사고 팀프로젝트<br>
 2023 Design Thinking Team Project
 
-![demonstration_video](https://github.com/DefineJH/tennis_disa/assets/150813710/d7a37538-9698-4635-9ccb-2435ffe98588)
+![demonstration_video](./Screenshot/demonstration_video.gif)
 
 </div>
 
