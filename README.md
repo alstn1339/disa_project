@@ -38,9 +38,9 @@ For more information, please refer to [this link](https://big-tracker-47a.notion
 
 ### 1. 실행 | Execution
 
-TennisTeacher.exe를 실행합니다.
+유니티 빌드 후 실행합니다.
 
-Run TennisTeacher.exe.
+Run after Unity build.
 
 ### 2. 로비 | Lobby
 
