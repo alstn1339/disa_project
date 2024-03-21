@@ -12,16 +12,10 @@
 
 제작 기간(period): 2023/10/13 ~ 2023/12/23
 
-인공지능을 이용한 테니스 :tennis: 가이드 앱 만들기 프로젝트입니다.
+인공지능을 이용한 테니스 :tennis: 가이드 앱 만들기 프로젝트입니다. 앱은 사용자의 움직임을 카메라(웹캠)로 감지하여 화면에 시각적으로 보여주며, 또한 테니스 공을 칠 수 있는 기능도 구현되어 있습니다. 이를 통해 사용자는 자신의 자세를 확인하고 필요한 교정을 받을 수 있습니다.
 오픈소스인 [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda)와 유니티를 활용하여 제작하였습니다.
 
-더 자세한 내용은 [이 링크](https://big-tracker-47a.notion.site/12-14-d93f476dd8ce41ffb1f5b3410525bab9?pvs=4)를 참고해주세요!
-
-It is a project to create a tennis :tennis: guide app using artificial intelligence.
-It was produced using the open source [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) and Unity.
-
-For more information, please refer to [this link](https://big-tracker-47a.notion.site/12-14-d93f476dd8ce41ffb1f5b3410525bab9?pvs=4)!
-
+This is a project to create a tennis :tennis: guide app using artificial intelligence. The app detects user movements through a camera (webcam) and visually displays them on the screen. Additionally, it features the functionality to hit tennis balls. Through this, users can check their posture and receive necessary corrections. It was developed using the open-source [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) and Unity.
 
 ## 팀 구성원 | Team member
 
@@ -32,15 +26,22 @@ For more information, please refer to [this link](https://big-tracker-47a.notion
 
 ## 개발과정 | Development process
 
-[Presentation PPT](https://drive.google.com/file/d/11CmiScZ9sJiZIK8G8POVK6VpsX0rLEDj/view?usp=drive_link)
+➡️[Presentation PPT](https://drive.google.com/file/d/11CmiScZ9sJiZIK8G8POVK6VpsX0rLEDj/view?usp=drive_link)⬅️
+➡️[Notion](https://big-tracker-47a.notion.site/12-14-d93f476dd8ce41ffb1f5b3410525bab9?pvs=4)⬅️
+
+이곳에서 개발 배경 및 과정을 확인할 수 있습니다!
+
+You can find the development background and process here!
 
 ## 사용법 | How to use
 
 ### 1. 실행 | Execution
 
-유니티 빌드 후 실행합니다.
+➡️[Download](https://drive.google.com/file/d/1Yshepfp8w7Dkmz_eMzL8OuOo66QUS4sp/view?usp=drive_link)⬅️
 
-Run after Unity build.
+해당 링크에서 실행파일을 다운받고 압축을 해제합니다. 이후 TennisTeacher.exe 파일을 실행합니다.
+
+Download the executable file from the provided link and extract the compressed file. Then, run the TennisTeacher.exe file.
 
 ### 2. 로비 | Lobby
 
