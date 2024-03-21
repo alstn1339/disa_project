@@ -32,6 +32,8 @@ For more information, please refer to [this link](https://big-tracker-47a.notion
 
 ## 개발과정 | Development process
 
+[Presentation PPT](https://drive.google.com/file/d/11CmiScZ9sJiZIK8G8POVK6VpsX0rLEDj/view?usp=drive_link)
+
 ## 사용법 | How to use
 
 ### 1. 실행 | Execution
