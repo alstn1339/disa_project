@@ -21,8 +21,8 @@ This is a project to create a tennis :tennis: guide app using artificial intelli
 
 ## 팀 구성원 | Team member
 
-* [Keval](https://github.com/kevalsil)<br>
 * [Ji Hwan Park](https://github.com/DefineJH)<br>
+* [Keval](https://github.com/kevalsil)<br>
 * [OverWindow](https://github.com/OverWindow)<br>
 * [hoyoon choi](https://github.com/hoyoonchoi)<br>
 
