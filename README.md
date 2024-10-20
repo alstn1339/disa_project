@@ -22,7 +22,7 @@ This is a project to create a tennis :tennis: guide app using artificial intelli
 ## 팀 구성원 | Team member
 
 * [Ji Hwan Park](https://github.com/DefineJH)<br>
-* [Remin](https://github.com/koremin)<br>
+* [Mints](https://github.com/mintsclover)<br>
 * [OverWindow](https://github.com/OverWindow)<br>
 * [hoyoon choi](https://github.com/hoyoonchoi)<br>
 
